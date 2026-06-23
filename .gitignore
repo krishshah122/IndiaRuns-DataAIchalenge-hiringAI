@@ -1,0 +1,6 @@
+# Large dataset — keep locally, do not push to GitHub
+**/candidates.jsonl
+
+# macOS junk
+.DS_Store
+**/.DS_Store
